@@ -1,0 +1,14 @@
+.demo{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+body{
+    margin: 0;
+    
+    height: 100vh;
+    box-sizing: border-box;
+}
